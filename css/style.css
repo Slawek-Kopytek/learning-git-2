@@ -1,0 +1,12 @@
+/* Global */
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+}
+
+section {
+    margin-left: 30%;
+}
+h2 {
+    font-weight: 700;
+}
